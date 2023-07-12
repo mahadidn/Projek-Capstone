@@ -4,6 +4,6 @@ Menentukan Algoritma Machine Learning Untuk Memprediksi Kebangkrutan Perusahaan 
 CATATAN: dataset yang akan digunakan adalah company_data(2).csv
 
 tentang dataset
-Dataset diambil dari https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction oleh Fedesoriano
+Dataset diambil dari https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction oleh Fedesoriano.
 Data dikumpulkan dari Jurnal Ekonomi Taiwan untuk tahun 1999 hingga 2009. 
 Kebangkrutan perusahaan ditentukan berdasarkan peraturan bisnis Bursa Efek Taiwan.
