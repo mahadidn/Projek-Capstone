@@ -1,6 +1,4 @@
 File yang terdapat dari folder "Hasil output" ini adalah jupyter notebook yang sudah di run sehingga sudah menampilkan outputnya.
 File ini didapat dari autoAI dari IBM Watson Machine Learning untuk memprediksi kebangkrutan perusahaan menggunakan algoritma XGB Classifier
 
-Kesimpulan: Hasil akurasi yang didapatkan dari dataset menggunakan algoritma XGB Classifier adalah 96%
-
-Catatan: terdapat code yang diubah untuk mengambil dataset dan melakukan data training sehingga akan terlihat perbeda dengan yang aslinya 
+Kesimpulan: Hasil akurasi yang didapatkan dari dataset menggunakan algoritma XGB Classifier adalah 94%
